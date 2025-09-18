@@ -2,6 +2,9 @@
 
 A hardware dashboard built with ESP32 and SSD1306 OLED display that shows now playing Spotify track information in real time. The project uses Python and the Spotify API for gathering playback data and sends updates to the ESP32 via serial.
 
+
+<img src="miniplayer.jpg"  width=350>
+
 ## Features
 
 - Displays track name, artist, and playback status from Spotify
